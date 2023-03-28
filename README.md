@@ -5,3 +5,4 @@
 ![image](https://github.com/INT2ECALL/pentest_bookmark/blob/main/readme.png?raw=true)
 
 2023.3.14 新增jwt解密工具
+2023.3.28 新增wappalyzer
